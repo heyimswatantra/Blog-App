@@ -16,7 +16,7 @@ ReactHookForm enhances the form handling process, ensuring efficient and control
 - **Image Support:** Enhance your blogs by adding images seamlessly.
 
 ## How to Use
-1. Head to [Blog App](#) to read all blogs.
+1. Head to [Blog App](https://blog-app-ny4j.onrender.com) to read all blogs.
 2. **Login:** To create, edit, and delete your blogs, log in to your account.
 3. Create a new blog post in the "Add Post" section.
 4. Use the intuitive TinyMCE editor to format your content.
